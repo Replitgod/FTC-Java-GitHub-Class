@@ -6,7 +6,7 @@ public class FirstRobotProgram {
 
         // Welcome message
         System.out.println("Hello, FTC Team!");
-
+        System.out.println("test push");
         // Introduce our robot
         System.out.println("My robot is ready!");
 
